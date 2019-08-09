@@ -1,0 +1,14 @@
+{
+  "name": "movie-renting",
+  "version": "1.0.0",
+  "description": "Movie renting API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifedili",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
