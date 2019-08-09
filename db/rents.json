@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "User2",
+      "email": "name2@test.com",
+      "password": "fduhfduh",
+      "number": "08033220182",
+      "address": "no 32 aaa street kk"
+    },
+    {
+      "id": 3,
+      "name": "User3",
+      "email": "name3@test.com",
+      "password": "fduhfduh",
+      "number": "08033330183",
+      "address": "no 33 aaa street kk"
+    },
+    {
+      "id": 4,
+      "name": "User4",
+      "email": "name4@test.com",
+      "password": "fduhfduh",
+      "number": "08033440184",
+      "address": "no 34 aaa street kk"
+    }
+  ],
+  "movies": [
+    {
+      "id": 4,
+      "name": "User4",
+      "email": "name4@test.com"
+    }
+  ]
+}
