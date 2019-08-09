@@ -1,6 +1,7 @@
-# movie-renting-app
+# Movie-renting-app
 
 #User's route
+-----
 
 
 GET	/users/count	=>	Get users count
@@ -17,6 +18,9 @@ DELETE	/users/1	=>	Delete a user
 
 
 #Movies's route
+-----
+
+
 
 GET	/movies/count	=>	Get movies count
 
